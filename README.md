@@ -6,7 +6,7 @@ Tải xuống file zip và giải nén.
 
 ## Sử dụng
 
-Thay tương ứng từng giá trị của các biến trong src/Whm.php.
+Thay tương ứng từng giá trị của các biến trong `src/Whm.php`.
 Mở file `index.php` để bắt đầu khởi chạy API.
 
 > **Note**
