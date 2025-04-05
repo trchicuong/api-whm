@@ -1,4 +1,4 @@
-# WHM API
+# API WHM
 
 ## Cài đặt
 
