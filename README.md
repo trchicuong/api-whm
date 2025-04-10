@@ -2,8 +2,11 @@
 
 ## Cài đặt
 
-Clone repo `git clone https://github.com/trchicuong/api-whm.git`. <br>
-Tải xuống file zip và giải nén.
+Clone repo 
+```
+git clone https://github.com/trchicuong/api-whm.git
+```
+Hoặc tải xuống file zip và giải nén.
 
 ## Sử dụng
 
