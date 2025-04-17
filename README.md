@@ -18,4 +18,4 @@ Mở file `index.php` để bắt đầu khởi chạy API.
 
 ## Đóng góp
 
-Đây chỉ mới là function tạo hosting, bạn có thể tham khảo code và docs tôi đã đính kèm ở trên để code thêm các function còn lại hoặc liên hệ qua https://fb.com/chicuong.user/ để mua các function còn lại.
+Đây chỉ mới là function tạo hosting, bạn có thể tham khảo code và docs tôi đã đính kèm ở trên để code thêm các function còn lại hoặc liên hệ qua https://linkbio.co/trchicuong để mua các function còn lại.
